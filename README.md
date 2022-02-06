@@ -26,3 +26,6 @@
 - Enable or Disable cart system
 - Full category, subcategory and food menu customization system
 - Customization system includes create, edit, reorder and remove items
+
+## Demo
+- https://mitsuki.qbmenu.ca
