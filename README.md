@@ -1,6 +1,6 @@
 # interactive_menu
 
-##Technologies used:
+## Technologies used:
 - react.js
 - node.js
 - Material UI
@@ -9,7 +9,7 @@
 - PHP
 - LAMP stack setup on Linode
 
-##Main workings of the web app:
+## Main workings of the web app:
 - Customer accesses the web app from scanning a QR code
 - Choose between categories of food items
 - Navigate interactive menu via sub categories
@@ -20,7 +20,7 @@
 - The customer brings their phone to show the QR code to the cashier
 - The cashier scans the QR code and gets an order summary of what the customer has picked
 
-##Admin side working:
+## Admin side working:
 - Login screen before accessing
 - Enable or Disable cart system
 - Full category, subcategory and food menu customization system
