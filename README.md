@@ -1,4 +1,4 @@
-# interactive_menu
+# Interactive menu with QR code order summary
 
 ## Technologies used:
 - react.js
