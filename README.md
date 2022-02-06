@@ -8,7 +8,7 @@
 - CSS
 - PHP
 - MySQL
-- LAMP stack setup on Linode
+- LEMP stack setup on Linode
 
 ## Main workings of the web app:
 - Customer accesses the web app from scanning a QR code
