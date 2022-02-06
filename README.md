@@ -7,6 +7,7 @@
 - HTML
 - CSS
 - PHP
+- MySQL
 - LAMP stack setup on Linode
 
 ## Main workings of the web app:
