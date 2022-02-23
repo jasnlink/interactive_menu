@@ -30,3 +30,4 @@ This is a React app that displays an interactive restaurant food menu. The idea 
 
 ## Demo
 - https://mitsuki.qbmenu.ca
+- https://mitsuki.qbmenu.ca/admin
