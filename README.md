@@ -12,16 +12,15 @@ I needed way to let users manage their menu via an easy to use interface.
 
 I created a CRUD interface to interact with the MySQL database. It also needed to be secured with a login authentication.
 
+### Customers get an order summary and a QR code that they present to the cashier.
+
 ![orderflow](https://msmtech.ca/wp-content/uploads/2022/04/5.jpg)
 ![orderflow](https://msmtech.ca/wp-content/uploads/2022/04/6-1.jpg)
 
-Customers get an order summary and a QR code that they present to the cashier.
-
-
+### Management backend to allow the staff to make changes to the menu.
 
 ![admin](https://msmtech.ca/wp-content/uploads/2022/04/11.jpg)
 
-Management backend to allow the staff to make changes to the menu.
 
 ## Technologies used:
 - react.js
