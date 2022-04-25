@@ -1,4 +1,4 @@
-# Interactive menu with QR code order summary
+# SimpleMenu - Interactive menu with Order Management for Pickups
 
 ## Purpose
 This app lets customers browse through the restaurant's menu and see what they have. When customers place an order, a QR code is generated on their phone screen. They can then show the code to the cashier to let them know what they ordered. This works well when the customer wants to start an order but the cashier is busy while also not letting the customer directly place an order either.
