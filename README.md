@@ -14,12 +14,11 @@ I created a CRUD interface to interact with the MySQL database. It also needed t
 
 ![orderflow](https://msmtech.ca/wp-content/uploads/2022/04/5.jpg)
 ![orderflow](https://msmtech.ca/wp-content/uploads/2022/04/6-1.jpg)
-
-
 Customers get an order summary and a QR code that they present to the cashier.
 
-![admin](https://msmtech.ca/wp-content/uploads/2022/04/11.jpg)
 
+
+![admin](https://msmtech.ca/wp-content/uploads/2022/04/11.jpg)
 Management backend to allow the staff to make changes to the menu.
 
 ## Technologies used:
